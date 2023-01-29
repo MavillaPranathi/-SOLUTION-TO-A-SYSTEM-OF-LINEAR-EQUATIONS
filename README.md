@@ -15,6 +15,8 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
+Developed by:M.PRANATHI
+Refrence number:22005710
 
 import numpy as np
 a=np.array([[1,-3],[3,1]])
